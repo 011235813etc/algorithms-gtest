@@ -6,6 +6,7 @@
 #pragma once
 
 #include "../algorithms/BinarySearch.h"
+#include "../algorithms/SelectionSort.h"
 #include <vector>
 #include <string>
 #include <deque>
