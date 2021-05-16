@@ -1,5 +1,6 @@
 #include "pch.h"
 #include "TestSearchFixture.h"
+#include "../algorithms/BinarySearch.h"
 
 TEST_F(TestSearchFixture, TestBinarySearchVectorInt) {
 	BinarySearch<std::vector<int>, int> binary_search(vec_int, vec_int.size());
