@@ -8,6 +8,7 @@
 #include "../algorithms/BinarySearch.h"
 #include "../algorithms/SelectionSort.h"
 #include "../algorithms/InsertionSort.h"
+#include "../algorithms/MergeSort.h"
 #include <vector>
 #include <string>
 #include <deque>
